@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/datafusion-federation/commit/36b0d03a08cbe9f6f968fa4b72de430cfef3410e",
       "git:hexsha": "36b0d03a08cbe9f6f968fa4b72de430cfef3410e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

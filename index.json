@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "datafusion-federation",
+  "versions": [
+    {
+      "commit": "36b0d03a08cbe9f6f968fa4b72de430cfef3410e",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:33:30.547249+00:00"
+    }
+  ]
+}
